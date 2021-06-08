@@ -47,3 +47,9 @@ footer{
     font-family: 'Indie Flower', cursive;
     font-size: large;
 }
+
+@media(max-width:1340px){
+   h1{
+       font-size: 4rem;
+   }
+}
